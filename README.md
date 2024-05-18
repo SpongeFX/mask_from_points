@@ -15,13 +15,13 @@ The asset enables creating curves on polygonal objects by mouse click in the vie
 [Download the HDA file](otls/sop_mask_from_points.1.0.hdalc) and install it to your `houdini20/otls/` folder. For detailed instructions, please refer to the [Houdini documentation](https://www.sidefx.com/docs/houdini/assets/install.html)
 
 ## ☑️ Features
+
 + Tested in Houdini versions: 19.5, 20.0
-+ Interactions with simulation and/or animation in real time.
-+ Rebound Effect: Customizable bounce when hitting polygons at sharp angles.
-+ Explosion mode for placement at the locations of the sources of explosion in collisions.
-+ Flexible velocity settings for use in simulations.
-+ Defines polygons that occur inside other polygon objects in RBD simulations with basic collision parameter values, which can significantly reduce simulation time in scenes where other effects do not require high collisions.
-+ The emitter of points can move during simulation.
++ Control and flexible adjustment of mask attribute propagation parameters.
++ Creation of various activators for mask attribute propagation within a single HDA.
++ Individual settings for created activators.
++ Works with animated polygonal objects.
++ Generates quaternion @orient to control and randomize rotation angle for each point.
   
 
 ## 🏃 Quick guide how to use the Mask From Points 1.0

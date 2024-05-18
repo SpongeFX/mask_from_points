@@ -5,8 +5,7 @@
 ### Mask From Points 1.0 is a Houdini SideFX digital asset for point masking, based on infection simulation(transferring mask attribute between neighboring points), allowing the creation and control of mask activators on animated objects.
 
 
-[![demo](https://spongefx.art/asset/media/public/simshot.mp4)](https://github.com/SpongeFX/simshot/assets/152398516/8f4dfd2c-98bf-4934-b3d4-8d5e296b0c8d)
-
+[![YouTube](http://i.ytimg.com/vi/2HlbdoaCWuM/hqdefault.jpg)](https://www.youtube.com/watch?v=2HlbdoaCWuM)
 
 The asset enables creating curves on polygonal objects by mouse click in the viewport and using these curves as attribute spreading activators between points. The created curves are attached to polygons and inherit all their transformations (if the polygonal object on which the curve is created moves, the curve will move along with it). Asset settings also allow controlling the speed and shape of mask spreading, smoothing the curves' shape, managing scatter to create masked points, applying parent transformations to these points, assigning the @orient attribute to points, and changing the rotation angle.
 

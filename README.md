@@ -22,8 +22,7 @@ The asset enables creating curves on polygonal objects by mouse click in the vie
 + Flexible velocity settings for use in simulations.
 + Defines polygons that occur inside other polygon objects in RBD simulations with basic collision parameter values, which can significantly reduce simulation time in scenes where other effects do not require high collisions.
 + The emitter of points can move during simulation.
-+ 
-![2024-05-13_21-33-47 (1)](https://github.com/SpongeFX/mask_from_points/assets/152398516/e26a8ebe-9924-43a0-a80b-f14f8698d995)
+  
 
 ## 🏃 Quick guide how to use the Mask From Points 1.0
 
@@ -37,7 +36,7 @@ The asset enables creating curves on polygonal objects by mouse click in the vie
             <p><b>4</b>. Adjust parameters affecting the speed and shape of mask spreading if need.</p>
             <p><b>5</b>. Visualize to <i>output2</i> and activate the timeline.</p>
         </td>
-        <td width="50%"><img src="[https://github.com/SpongeFX/simshot/assets/152398516/b2e55d0a-c313-4cb8-b9d6-221043504d2e](https://github.com/SpongeFX/mask_from_points/assets/152398516/e26a8ebe-9924-43a0-a80b-f14f8698d995)"></td>
+        <td width="50%"><img src="https://github.com/SpongeFX/mask_from_points/assets/152398516/e26a8ebe-9924-43a0-a80b-f14f8698d995"></td>
     </tr>
 </table>
 
